@@ -3,7 +3,7 @@
 - Web3 Security Researcher & Developer
 - Specializing in DeFi protocol, L1 & L2 chain, Bridge and Wallet security
 - Skilled in Solidity, Move, Golang, Rust
-- Successfully discovered and reported multiple vulnerabilities, earning bug bounties
+- Achievements & Experience: [Web3 Security Portfolio](https://github.com/jlguochn/portfolio)
 
 ### Contact Me:
 
