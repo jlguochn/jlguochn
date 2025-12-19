@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jolyon!
 ### Professional Summary
 - Web3 Security Researcher & Developer
-- Specializing in DeFi protocol, L1 & L2 chain, and Wallet security
+- Specializing in DeFi protocol, L1 & L2 chain, Bridge and Wallet security
 - Skilled in Solidity, Move, Golang, Rust
 - Successfully discovered and reported multiple vulnerabilities, earning bug bounties
 
